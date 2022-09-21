@@ -10,7 +10,7 @@ st.write(" \||/
         .<><><>.
        .<><><><>.
        '<><><><>'
-        '<><><>'")
+jgs     '<><><>'")
 
 # Use st.header("") para adicionar um CABEÇALHO ao seu Web app
 st.header("Cabeçalho")
